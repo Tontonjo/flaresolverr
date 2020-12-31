@@ -5,7 +5,7 @@
 # Flaresolverr
 docker run -d \
   --name=flaresolverr \
-  -p 8191:8191
+  -p 8191:8191 \
   -e LOG_LEVEL=info \
   -e CAPTCHA_SOLVER=harvester \
   -e HARVESTER_ENDPOINT=https://127.0.0.1:5000/token \
