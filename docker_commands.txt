@@ -1,5 +1,5 @@
 # Sources:
-# Flaresolverr: https://ghttps://hub.docker.com/r/linuxserver/jackett/ithub.com/FlareSolverr/FlareSolverr
+# Flaresolverr: https://github.com/FlareSolverr/FlareSolverr
 # jackett: https://hub.docker.com/r/linuxserver/jackett
 
 # Flaresolverr
