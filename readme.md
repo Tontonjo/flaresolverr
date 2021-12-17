@@ -1,9 +1,9 @@
 # Sources:
-# Flaresolverr: https://github.com/FlareSolverr/FlareSolverr
-# jackett: https://hub.docker.com/r/linuxserver/jackett
+Flaresolverr: https://github.com/FlareSolverr/FlareSolverr
+jackett: https://hub.docker.com/r/linuxserver/jackett
 
 
-# Flaresolverr
+## Flaresolverr
 ```shell
 docker run -d \
   --name=flaresolverr \
@@ -15,7 +15,7 @@ docker run -d \
   ghcr.io/flaresolverr/flaresolverr:latest
 ```
   
-# Jackett:
+## Jackett:
 ```shell
 docker run -d \
   --name=jackett \
